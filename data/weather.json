@@ -1,13 +1,13 @@
 {
   "stationID": "KPAALIQU74",
-  "obsTimeLocal": "2026-08-13 01:25:17",
-  "obsTimeUtc": "2026-08-13T05:25:17Z",
+  "obsTimeLocal": "2026-08-13 01:25:38",
+  "obsTimeUtc": "2026-08-13T05:25:38Z",
   "neighborhood": [
     "Clover Terrace",
     "Aliquippa"
   ],
   "humidity": 97,
-  "winddir": 198,
+  "winddir": 256,
   "uv": 0,
   "solarRadiation": null,
   "temp": 68.0,
@@ -17,7 +17,7 @@
   "windSpeed": 1.12,
   "windGust": 1.12,
   "pressure": null,
-  "pressureAbsolute": 28.98,
+  "pressureAbsolute": 28.99,
   "precipRate": 0.0,
   "precipTotal": 0.0,
   "precipTotalWeek": 0.77,
