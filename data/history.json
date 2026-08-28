@@ -78505,5 +78505,44 @@
     "solarRadiation": null,
     "uv": 0.0,
     "precipRate": 0.0
+  },
+  {
+    "time": "2026-08-27 21:50:00",
+    "temp": 71.54,
+    "humidity": 80.52,
+    "windSpeed": 0.14,
+    "windGust": 1.57,
+    "winddir": 59.84,
+    "pressure": 29.96,
+    "pressureAbsolute": 29.03,
+    "solarRadiation": null,
+    "uv": 0.0,
+    "precipRate": 0.0
+  },
+  {
+    "time": "2026-08-27 21:55:00",
+    "temp": 71.42,
+    "humidity": 80.06,
+    "windSpeed": 0.0,
+    "windGust": 1.12,
+    "winddir": null,
+    "pressure": 29.96,
+    "pressureAbsolute": 29.02,
+    "solarRadiation": null,
+    "uv": 0.0,
+    "precipRate": 0.0
+  },
+  {
+    "time": "2026-08-27 22:00:00",
+    "temp": 71.42,
+    "humidity": 80.72,
+    "windSpeed": 0.15,
+    "windGust": 1.57,
+    "winddir": 191.49,
+    "pressure": 29.96,
+    "pressureAbsolute": 29.02,
+    "solarRadiation": null,
+    "uv": 0.0,
+    "precipRate": 0.0
   }
 ]
