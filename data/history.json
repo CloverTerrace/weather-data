@@ -80611,5 +80611,18 @@
     "solarRadiation": null,
     "uv": 1.77,
     "precipRate": 0.0
+  },
+  {
+    "time": "2026-08-28 11:20:00",
+    "temp": 74.21,
+    "humidity": 73.25,
+    "windSpeed": 2.95,
+    "windGust": 9.4,
+    "winddir": 307.23,
+    "pressure": 30.1,
+    "pressureAbsolute": 29.16,
+    "solarRadiation": null,
+    "uv": 1.33,
+    "precipRate": 0.0
   }
 ]
