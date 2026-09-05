@@ -1,7 +1,7 @@
 {
   "stationID": "KPAALIQU74",
-  "obsTimeLocal": "2026-09-04 23:59:49",
-  "obsTimeUtc": "2026-09-05T03:59:49Z",
+  "obsTimeLocal": "2026-09-05 00:00:22",
+  "obsTimeUtc": "2026-09-05T04:00:22Z",
   "neighborhood": [
     "Clover Terrace",
     "Aliquippa"
@@ -19,11 +19,11 @@
   "pressure": 29.94,
   "pressureAbsolute": 29.0,
   "precipRate": 0.0,
-  "precipTotal": 0.24,
+  "precipTotal": null,
   "precipTotalWeek": 2.18,
   "precipTotalMonth": 2.17,
   "precipTotalYear": 4.61,
-  "lightningStrikeCount": 131,
+  "lightningStrikeCount": 0,
   "lightningDistance": 19.26,
   "lightningLastStrike": "2026-09-04 02:35:00",
   "source": "local"
