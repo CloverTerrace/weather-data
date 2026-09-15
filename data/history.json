@@ -144532,5 +144532,18 @@
     "solarRadiation": null,
     "uv": 2.27,
     "precipRate": 0.0
+  },
+  {
+    "time": "2026-09-15 13:50:00",
+    "temp": 78.23,
+    "humidity": 48.59,
+    "windSpeed": 3.35,
+    "windGust": 6.93,
+    "winddir": 204.68,
+    "pressure": 30.21,
+    "pressureAbsolute": 29.27,
+    "solarRadiation": null,
+    "uv": 3.81,
+    "precipRate": 0.0
   }
 ]
