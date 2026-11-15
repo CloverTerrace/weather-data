@@ -1,18 +1,5 @@
 [
   {
-    "time": "2026-09-26 17:25:00",
-    "temp": 70.36,
-    "humidity": 53.06,
-    "windSpeed": 3.79,
-    "windGust": 9.62,
-    "winddir": 327.1,
-    "pressure": 30.0,
-    "pressureAbsolute": 29.06,
-    "solarRadiation": null,
-    "uv": 0.31,
-    "precipRate": 0.0
-  },
-  {
     "time": "2026-09-26 17:30:00",
     "temp": 70.09,
     "humidity": 53.29,
@@ -187193,6 +187180,19 @@
     "windSpeed": 2.77,
     "windGust": 5.82,
     "winddir": 352.12,
+    "pressure": 30.36,
+    "pressureAbsolute": 29.36,
+    "solarRadiation": null,
+    "uv": 0.0,
+    "precipRate": 0.0
+  },
+  {
+    "time": "2026-11-15 16:35:00",
+    "temp": 45.14,
+    "humidity": 71.27,
+    "windSpeed": 2.97,
+    "windGust": 5.82,
+    "winddir": 7.4,
     "pressure": 30.36,
     "pressureAbsolute": 29.36,
     "solarRadiation": null,
